@@ -1,5 +1,4 @@
-![C++](https://img.shields.io/badge/language-C++-blue.svg)
-A simple C++ calculator that supports basic operations:
+![C++](https://img.shields.io/badge/language-C++-blue.svg): A simple C++ calculator that supports basic operations: 
 
 ## Features
 - Addition (+)
