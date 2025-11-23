@@ -1,5 +1,7 @@
 ![C++](https://img.shields.io/badge/language-C++-blue.svg)
-A simple C++ calculator that supports basic operations: 
+[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](LICENSE)
+A simple C++ calculator that supports basic operation:
+Press Q/q To exit:
 
 ## Features
 - Addition (+)
@@ -24,6 +26,11 @@ git clone https://github.com/TimGoTheCreator/Else-if-calculator.git
 cd Else-if-calculator
 clang++ main.cpp -o main
 ./main
+```
+
+## Usage (Make)
+```bash
+make
 ```
 
 ## Example Run:
