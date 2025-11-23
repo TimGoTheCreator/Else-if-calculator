@@ -30,7 +30,7 @@ clang++ main.cpp -o main
 
 ## Usage (Make)
 ```bash
-make
+make run
 ```
 
 ## Example Run:
