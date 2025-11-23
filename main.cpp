@@ -17,7 +17,7 @@ int main() {
     string input2;
 
     while (true) {
-        cout << "Enter the first number or press Q to quit." << endl; // Get first number
+        cout << "Enter the first number or press Q to quit. " << endl; // Get first number
         cin >> input1; // Input 1
 
         if (input1 == "Q" || input1 == "q") { // If Q or q was pressed, quit the loop
@@ -76,5 +76,6 @@ int main() {
 
     cout << "Loop finished!" << endl; // Finish loop message
     return 0; // Return success
+
 
 }
