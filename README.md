@@ -1,3 +1,4 @@
+![C++](https://img.shields.io/badge/language-C++-blue.svg)
 A simple C++ calculator that supports basic operations:
 
 ## Features
@@ -7,12 +8,21 @@ A simple C++ calculator that supports basic operations:
 - Division (/)
 - Power (**) — Python-style exponent operator
 
-## Usage
+## Usage (G++)
 
 ```bash
 git clone https://github.com/TimGoTheCreator/Else-if-calculator.git
 cd Else-if-calculator
 g++ main.cpp -o main
+./main
+```
+
+## Usage (Clang)
+
+```bash
+git clone https://github.com/TimGoTheCreator/Else-if-calculator.git
+cd Else-if-calculator
+clang++ main.cpp -o main
 ./main
 ```
 
